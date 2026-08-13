@@ -18,6 +18,7 @@
 
 <details>
 <summary>Повышения</summary>
+ 
 - Новичок 2 -> **Стрельба (Shooting):** d8, **Оккультизм (Occult):** d6
 </details>
 ---
